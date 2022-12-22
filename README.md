@@ -1,4 +1,4 @@
-# MindBox
+# Задание
 
 Результат задания №1 расположен в директории MindBoxLibrary, unit тесты расположены в директории MindBoxLibrary.Tests.
 
